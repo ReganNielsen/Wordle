@@ -66,3 +66,7 @@ class Wordle:
             
 game = Wordle()
 game.play()
+
+
+#Import file - read word from file
+#Comment on each section - show understanding
